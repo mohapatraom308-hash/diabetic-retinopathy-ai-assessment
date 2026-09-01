@@ -61,13 +61,17 @@ A user-friendly Streamlit interface allows users to interact with the trained mo
 
 ![Fundus Image Upload](docs/screenshots/upload.png)
 
-## 🧠 Prediction Result
+## 🧠 Prediction Result 1
 
-![Prediction Result](docs/screenshots/prediction.png)
+![Prediction Result 1](docs/screenshots/prediction1.png)
+
+## 🧠 Prediction Result 2
+
+![Prediction Result 2](docs/screenshots/prediction2.png)
 
 ## 🔍 Explainable AI
 
-![Grad-CAM and SHAP Explanation](docs/screenshots/explainability.png)
+![Explainability](docs/screenshots/explainability.png)
 
 ---
 
