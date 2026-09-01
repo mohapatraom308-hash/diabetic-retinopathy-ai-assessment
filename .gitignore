@@ -1,0 +1,63 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+.venv/
+env/
+ENV/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Operating System
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Dataset
+# =========================
+dataset/
+data/
+
+# =========================
+# Logs and generated results
+# =========================
+logs/
+*.log
+
+# =========================
+# Model files
+# Keep ONLY the selected model
+# =========================
+models/*
+!models/federated_best_fedavg.pth
+
+# =========================
+# Python testing/cache
+# =========================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
