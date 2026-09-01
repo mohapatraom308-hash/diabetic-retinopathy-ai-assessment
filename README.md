@@ -92,3 +92,27 @@ A user-friendly Streamlit interface allows users to interact with the trained mo
                  ┌──────────┴──────────┐
                  ▼                     ▼
               Grad-CAM               SHAP
+
+# 📷 Application Screenshots
+
+## 🏠 Application Interface
+
+![Application Home](docs/screenshots/home.png)
+
+## 📤 Fundus Image Upload
+
+![Fundus Image Upload](docs/screenshots/upload.png)
+
+## 🧠 Prediction Result
+
+![Prediction Result](docs/screenshots/prediction.png)
+
+## 🔍 Explainable AI
+
+![Grad-CAM and SHAP Explanation](docs/screenshots/explainability.png)
+
+---
+
+## License
+
+Research use only.
